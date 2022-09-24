@@ -1,0 +1,6 @@
+ORG 0000;
+	
+	MOV R1,#34H;
+	MOV R2,#43H;
+	ADD R1,R2;
+	END
